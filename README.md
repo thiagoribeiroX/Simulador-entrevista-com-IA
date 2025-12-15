@@ -54,3 +54,46 @@ Se você quiser, posso também:
 - Incluir tags/labels ou metadados YAML no topo do arquivo.
 
 Quer que eu faça alguma dessas opções agora?  
+
+
+# 🤖 Projeto de Automação de Processos  
+Desafio realizado como parte da minha jornada na **Formação Power Automate Specialist (DIO)**.
+
+Este projeto demonstra minha capacidade de analisar um processo manual, identificar oportunidades de automação e implementar uma solução funcional usando ferramentas modernas de automação.
+
+---
+
+## 🚀 Objetivo do Projeto
+
+Criar uma automação completa capaz de:
+- Ler dados de uma planilha
+- Processar e organizar informações
+- Enviar e-mails automáticos com base nos dados
+- Gerar um relatório final
+- Reduzir tarefas repetitivas e aumentar a eficiência
+
+---
+
+## 🧩 Tecnologias Utilizadas
+
+- **Power Automate**  
+- **Python (opcional para scripts complementares)**  
+- **Excel / Planilhas**  
+- **Conexões com APIs (quando aplicável)**  
+- **GitHub para versionamento**
+
+---
+
+## 📌 Funcionalidades da Automação
+
+- Processamento automático de arquivos  
+- Envio de e-mails personalizados  
+- Geração de logs e relatórios  
+- Integração entre sistemas  
+- Execução sem intervenção manual  
+
+---
+
+## 📂 Estrutura do Repositório
+
+
